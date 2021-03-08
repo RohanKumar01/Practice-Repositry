@@ -1,0 +1,22 @@
+.container{
+    background-color: rgb(219 246 219);
+    border: 4px solid rgb(0, 0, 0);
+   padding: 8px 18px 23px 24px; /* padding = top right bottom left */
+    /* padding-left: 24px;
+    padding-right: 18px;
+    padding-bottom: 23px;
+    padding-top: 8px; */
+    margin: 34px; 
+    border-radius: 5px;
+    width: 420px;
+    box-sizing: border-box; /*To make width constant*/
+    font-family: Noto Sans JP;
+}
+
+body{
+    background-color: rgb(243, 103, 114);
+}
+
+span{
+    font-style: italic;
+}
