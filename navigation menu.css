@@ -1,0 +1,45 @@
+.navbar{
+    background-color: rgb(20, 245, 170);
+    border-radius: 8px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    list-style: none;
+    float: left;
+    padding: 8px 11px;
+    margin: 10px;
+}
+
+.navbar li a{
+    text-decoration: none;
+    padding: 3px 3px;
+}
+
+.navbar input{
+    float: left;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.search:hover{
+    color: cornsilk;
+}
+.search{
+    float:right;
+    color: rgb(19, 26, 26);
+    border-radius: 4px;
+    padding-top: 15px;
+    padding-left: 19px;
+/* width: 250px; */
+}
+.navbar li a:hover{
+    color:coral;
+
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
